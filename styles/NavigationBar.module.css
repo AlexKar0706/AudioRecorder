@@ -1,0 +1,13 @@
+.nav {
+    height: 4vh;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(83,83,83,1) 60%);
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    font-weight: bold;
+    color: #ea2424;
+}
